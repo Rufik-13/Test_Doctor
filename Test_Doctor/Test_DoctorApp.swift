@@ -2,7 +2,7 @@
 //  Test_DoctorApp.swift
 //  Test_Doctor
 //
-//  Created by Ruslan Medetbayev on 06.08.2025.
+//  Created by Ruslan on 06.08.2025.
 //
 
 import SwiftUI

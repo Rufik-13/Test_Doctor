@@ -2,7 +2,7 @@
 //  HomeView.swift
 //  Test_Doctor
 //
-//  Created by Ruslan Medetbayev on 10.08.2025.
+//  Created by Ruslan  on 10.08.2025.
 //
 
 import SwiftUI
